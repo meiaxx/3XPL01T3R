@@ -1,0 +1,11 @@
+requests
+base64
+urllib
+urllib2
+cookielib
+colorama
+argparse
+webbrowser
+Queue
+lxml
+codecs
